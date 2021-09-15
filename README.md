@@ -9,11 +9,7 @@ I am a software dev and application security champion. I'm good at migrating & r
 
 #### 🎥 Favorite Talks Right Now:
 
-[**Livable Code by Sarah Mei**](https://www.youtube.com/watch?v=lI77oMKr5EY)
-
-[![Livable Code by Sarah Mei](https://img.youtube.com/vi/lI77oMKr5EY/0.jpg)](https://www.youtube.com/watch?v=lI77oMKr5EY)
-
-
-[**Hello World by Ian Coldwater**](https://youtu.be/rwFN-x57Nwo)
-
-[![Hello World by Ian Coldwater](https://img.youtube.com/vi/rwFN-x57Nwo/0.jpg)](https://youtu.be/rwFN-x57Nwo)
+Coding | InfoSec
+------ | -------
+[**Livable Code by Sarah Mei**](https://www.youtube.com/watch?v=lI77oMKr5EY) | [**Hello World by Ian Coldwater**](https://youtu.be/rwFN-x57Nwo)
+[![Livable Code by Sarah Mei](https://img.youtube.com/vi/lI77oMKr5EY/1.jpg)](https://www.youtube.com/watch?v=lI77oMKr5EY) | [![Hello World by Ian Coldwater](https://img.youtube.com/vi/rwFN-x57Nwo/1.jpg)](https://youtu.be/rwFN-x57Nwo)
