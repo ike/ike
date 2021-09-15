@@ -7,6 +7,13 @@ I am a software dev and application security champion. I'm good at migrating & r
  - Speaker: IntroSecCon, NodePDX, Future of the Browser Conf
  - Volunteer: &yet Conf, Realtime Conf, CascadiaJS, NodeConf, Offline Camp
 
-#### Favorite Talk Right Now:
+#### 🎥 Favorite Talks Right Now:
 
-<iframe width="100%" height="504" src="https://www.youtube.com/embed/lI77oMKr5EY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[**Livable Code by Sarah Mei**](https://www.youtube.com/watch?v=lI77oMKr5EY)
+
+[![Livable Code by Sarah Mei](https://img.youtube.com/vi/lI77oMKr5EY/0.jpg)](https://www.youtube.com/watch?v=lI77oMKr5EY)
+
+
+[**Hello World by Ian Coldwater**](https://youtu.be/rwFN-x57Nwo)
+
+[![Hello World by Ian Coldwater](https://img.youtube.com/vi/rwFN-x57Nwo/0.jpg)](https://youtu.be/rwFN-x57Nwo)
