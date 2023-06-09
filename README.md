@@ -1,6 +1,6 @@
 ### Hey! My name is Isaac
 
-I am a senior software dev and application security champion. I'm good at migrating & refactoring old code.
+I am a senior software dev and application security specialist. I'm good at migrating & refactoring old code.
 
  - Senior Software Dev and Application Security Specialist at SIGN Fracture Care
  - Formerly: Wildland Labs, &yet
