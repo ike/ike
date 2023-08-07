@@ -1,4 +1,4 @@
-### Hey! My name is Isaac
+### Hey! My name is Isaac (aka ike, killick)
 
 I am a senior software dev and application security specialist. I'm good at migrating & refactoring old code.
 
