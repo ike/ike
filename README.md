@@ -7,6 +7,11 @@ I am a senior software dev and application security specialist. I'm good at migr
  - Speaker: IntroSecCon, NodePDX, Future of the Browser Conf
  - Volunteer: &yet Conf, Realtime Conf, CascadiaJS, NodeConf, Offline Camp
 
+#### My IntroSecCon 2021 Talk
+[**What I've Learned about Threat Modeling**](https://www.youtube.com/watch?v=MIJNtAR6UF0)
+
+[![What I've Learned about Threat Modeling](http://i3.ytimg.com/vi/MIJNtAR6UF0/hqdefault.jpg)](https://www.youtube.com/watch?v=MIJNtAR6UF0)
+
 #### 🎥 Favorite Talks Right Now:
 
 Coding | InfoSec
