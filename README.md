@@ -3,6 +3,7 @@
 I am a senior software dev and application security specialist. I'm good at migrating & refactoring old code.
 
  - Senior Software Dev and Application Security Specialist at SIGN Fracture Care
+ - DevOps contributor to [OWASP ASVS](https://github.com/owasp/asvs)
  - Formerly: Wildland Labs, &yet
  - Speaker: IntroSecCon, NodePDX, Future of the Browser Conf
  - Volunteer: &yet Conf, Realtime Conf, CascadiaJS, NodeConf, Offline Camp
